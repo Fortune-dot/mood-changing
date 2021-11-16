@@ -6,9 +6,6 @@
 *
 */
 
-*{
-    overflow-x: hidden;
-}
 .bg-cover {
     background-size: cover !important;
 }
